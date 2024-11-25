@@ -69,8 +69,8 @@ Read carefully our Contributing Guidelines to know how to contribute properly in
 project. Members and maintainers must adhere to some rules regarding to pull requests
 reviews and creation of issues and pull requests:
 
-* During code reviews do not comment on coding standards and styles -focus on algorithmical,
-structural or naming issues-, help to solve problem.
+* During code reviews do not comment on coding standards and styles -focus on algorithmic,
+structural or naming issues-, help to solve the problem.
 * When creating an issue or a pull request, follow the templates provided by the repository and
 fill in the indicated items correctly. If you do not want to use a template, open a blank issue/PR
 and make sure that in its description is not missing any information requested by the templates. Help
